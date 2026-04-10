@@ -1,5 +1,5 @@
 # DamageSystemGAS
-Simple damage system based on the GAS Plugin in Unreal Engine 5, with a few damage and resistance types.
+Simple damage system based on the GAS Plugin in Unreal Engine 5.7.4, with a few damage and resistance types.
 
 
 
