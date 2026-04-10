@@ -1,5 +1,6 @@
 # DamageSystemGAS
 Simple damage system based on the GAS Plugin in Unreal Engine 5.7.4, with a few damage and resistance types.
+Based on First Person Template and some code from Lyra.
 
 
 
