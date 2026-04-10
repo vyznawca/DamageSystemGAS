@@ -1,0 +1,17 @@
+// Adam Pawlewski - Damage System GAS
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "NativeGameplayTags.h"
+
+//Damage Types
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_DamageType_Elemental_Fire)
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_DamageType_Elemental_Water)
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_DamageType_Physical_Basic)
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_DamageType_Healing)
+
+//Effects
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_Effect_SetByCaller_Damage)
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_Effect_SetByCaller_Heal)
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(GTag_DS_Effect_SetByCaller_MaxHealth)
